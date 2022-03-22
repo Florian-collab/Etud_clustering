@@ -10,10 +10,10 @@ connues.
 3. Pour chacune des méthodes utilisées, expliquer son fonctionnement.
 
 
-Exercice 2 (Partitionnement de données en plus grande dimension).
+Exercice 2 (Partitionnement de données en plus grande dimension).    
 Appliquer une méthode de partitionnement de données sur un jeu de données réelles de votre choix, issues par exemple de https://www.cs.ucr.edu/~eamonn/time_series_data_2018/ ou de https://github.com/google-research/soft-dtw-divergences.
 
-Projet - Cours sur le partitionnement de données
-M2 – Université de Rennes 2
-Claire Brécheteau.
-2021 - 2022
+Projet - Cours sur le partitionnement de données    
+M2 – Université de Rennes 2    
+Claire Brécheteau.    
+Année : 2021 - 2022
