@@ -14,7 +14,7 @@ connues.
 **Exercice 2 (Partitionnement de données en plus grande dimension).**    
 Appliquer une méthode de partitionnement de données sur un jeu de données réelles de votre choix, issues par exemple de https://www.cs.ucr.edu/~eamonn/time_series_data_2018/ ou de https://github.com/google-research/soft-dtw-divergences.
 
-**SOLUTION : ** *voir Rapport.pdf*    
+**SOLUTION :** *voir Rapport.pdf*    
 
 Projet - Cours sur le partitionnement de données    
 M2 – Université de Rennes 2    
